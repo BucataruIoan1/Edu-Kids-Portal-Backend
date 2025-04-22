@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "bxNOsHfKIHqsVdcntkSsqe+1yk1mdpv0WNaZ7Vvb3/g=",
+  "Source": "edukidsportal-backend",
+  "BasePath": "_content/edukidsportal-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

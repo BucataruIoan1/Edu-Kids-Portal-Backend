@@ -1,0 +1,6 @@
+@edukidsportal_backend_HostAddress = http://localhost:5207
+
+GET {{edukidsportal_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
