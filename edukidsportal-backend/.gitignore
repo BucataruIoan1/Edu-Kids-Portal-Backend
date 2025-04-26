@@ -1,0 +1,32 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore Visual Studio specific folders
+.vs/
+*.user
+*.suo
+
+# Ignore SQLite temporary files
+*.db
+*.db-shm
+*.db-wal
+
+# Ignore logs
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore published files
+publish/
+
+# Ignore node_modules if using Node.js somewhere
+node_modules/
+
+# Ignore HTTP files
+*.http
+
+# Visual Studio SQLite solution cache
+slnx.sqlite
+slnx.sqlite-journal
